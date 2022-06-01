@@ -29,9 +29,6 @@ public class Assignment_3_1 {
             }
         }
 
-        final class DoStuff {
-
-            public void main(String[] args) {
                 
                 Rectangle rect1 = new Rectangle();
                 
@@ -43,6 +40,5 @@ public class Assignment_3_1 {
                 System.out.println("Perimeter of second object="+rect2.getPerimeter());
            }
             
-        }
+        
     }
-}
